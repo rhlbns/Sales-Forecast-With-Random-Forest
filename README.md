@@ -1,6 +1,6 @@
 # Sales-Forecast-With-Random-Forest
 On the basis of sales data from 45 different BigMore stores located in different regions, I have predicted the sales for 
-each  department in each store.
+each  department in each store. Results of the data in test.csv file is written in "results.csv".
 
 Repesentative Features of each stores like it's size and type is provided in stores.csv file  
 
